@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NeuronalStock</string>
+    <string name="defaultPrecio">No Precio</string>
+    <string name="defaultFecha">No Fecha</string>
+    <string name="tituloEstadistica">Estadísticas</string>
+    <string name="Pasado">Pasado</string>
+    <string name="Futuro">Futuro</string>
+    <string name="dia">1D</string>
+    <string name="semana">1w</string>
+    <string name="mes">1m</string>
+    <string name="trimestre">3m</string>
+    <string name="semestral">6m</string>
+    <string name="ano">1y</string>
+
+    <string name="prom">Media:</string>
+    <string name="des">Des. Std: </string>
+    <string name="var">Variación:</string>
+    <string name="pInicial">P. Inicial:</string>
+    <string name="pActual">P. Actual:</string>
+    <string name="bpe">BPA:</string>
+    <string name="priceEarnings">P/E:</string>
+    <string name="rangoDiario">R. Diario:</string>
+    <string name="rangoAnual">R. Anual:</string>
+</resources>

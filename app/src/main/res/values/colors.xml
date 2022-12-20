@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blueLight">#003FCE</color>
+    <color name="blueDark">#001953</color>
+    <color name="grey">#B0BEC5</color>
+    <color name="green">#63FE72</color>
+    <color name="red">#FE6763</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00195300</color>
+    <color name="blueCard">#002372</color>
+    <color name="rosado">#FF577F</color>
+    <color name="naranja">#FF884B</color>
+    <color name="blueShadow">#021B52</color>
+</resources>
